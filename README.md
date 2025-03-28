@@ -23,7 +23,7 @@
 5. **Check Your Answer:** Check the console to see if your function works correctly. You will see `Success` in the console.
 
 6. **Iterate and Learn**: If unsuccessful, analyze your approach, learn from it, and try again!
-
+ 
 ## ✅ Outcome
 
 - Ability to securely handle JWT tokens in your full-stack projects.
